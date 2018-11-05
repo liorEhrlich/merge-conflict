@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-console.log(hello World);
-=======
+console.log("hello World");
+var num = 2;
 console.log("hi");
->>>>>>> 30560db3b799a62ed5e96c7447d084752737e963
